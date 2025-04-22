@@ -28,7 +28,8 @@
     "extra": {
       "expo-router": {
         "appRoot": "./app"
-      }
+      },
+      "allowedHost": "*"
     }
   }
 }
